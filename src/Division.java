@@ -33,5 +33,5 @@ public class Division {
     public String toStringDivision() {
         return
                 "ID = " + ID + ", название подразделения: " + division_name+ '\n' ;}
-
+///comment
 }
