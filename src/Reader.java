@@ -14,6 +14,7 @@ public class Reader {
      * @return список людей
      * @throws FileNotFoundException файл не найден
      */
+    //comment
     public ArrayList <Human> reader(String path) throws FileNotFoundException
     {
         String line = "";
